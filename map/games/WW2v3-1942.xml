@@ -2103,7 +2103,7 @@
     <property name="Raids May Be Preceeded By Air Battles" value="false" editable="true">
       <boolean/>
     </property>
-    <property name="SBR Affects Unit Production" value="true" editable="false">
+    <property name="Damage From Bombing Done To Units Instead Of Territories" value="true" editable="false">
       <boolean/>
     </property>
     <!-- to do with neutrals -->
@@ -2112,9 +2112,6 @@
       <boolean/>
     </property>
     <property name="Neutrals Are Blitzable" value="false" editable="false">
-      <boolean/>
-    </property>
-    <property name="Damage From Bombing Done To Units Instead Of Territories" value="true" editable="false">
       <boolean/>
     </property>
     <!-- Map Name: also used for map utils when asked -->
